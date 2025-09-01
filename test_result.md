@@ -293,4 +293,4 @@ test_plan:
 
 agent_communication:
   - agent: "main"
-    message: "Successfully implemented complete GiaStylez.com platform with all core features. Ready for backend testing. Features include: JWT auth, image upload (base64), voting/likes/comments, 2-day auto-deletion, expose me priority, admin dashboard, right-click protection. Frontend shows beautiful gradient design and is responsive."
+    message: "User reports SOMETHING_WENT_WRONG multiple times despite visual testing showing app working. Need comprehensive backend endpoint testing to identify hidden issues. All visual tests pass but there may be API errors, authentication issues, or database problems not visible in frontend. Priority: Validate all backend endpoints systematically."
